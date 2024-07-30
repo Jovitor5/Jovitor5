@@ -9,3 +9,5 @@ Conecte-se comigo através do LinkedIn:
 Tecnologia que uso no meu dia a dia:
 
 ![swif](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+"Inovação distingue um líder de um seguidor."
